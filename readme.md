@@ -1,0 +1,1 @@
+python hormigas.py 1 50 250 0.1 2.5 0.9 berlin52.txt
