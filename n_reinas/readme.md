@@ -41,10 +41,3 @@ Si no se encuentra una solución, se imprimirá un mensaje indicando que no se l
 - Igualmente si se ingresan valores mas bajos de mutacion como 5% encuentra soluciones pero quizas sea necesario probar con diferentes semillas para encontrar resultados. 
 
 - Segun lo probado tambien al usar 100% de pocentaje de cruzamiento hay aun más efectividad a la hora de encontrar soluciones.
-
-
-## Estudiantes: 
-
-- Javier Pino Herrera
-- Dan Ocampo Castillo
-- Felipe Gerbier Gerbier
